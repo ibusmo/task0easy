@@ -1,4 +1,4 @@
-#in//0001 : Grading
+//0001 : Grading
 #include"stdio.h"
 
 main()
